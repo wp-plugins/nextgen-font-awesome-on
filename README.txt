@@ -31,7 +31,9 @@ With Font Awesome active all the time, you can use the icon fonts anywhere on yo
 
 = Can you provide an example? =
 
-Sure!  Use <i class="fa fa-wordpress"></i> anywhere on your website and you'll see the WordPress logo display from Font Awesome.
+Sure!  Use the following anywhere on your website and you'll see the WordPress logo display from Font Awesome.
+
+`<i class="fa fa-wordpress"></i>`
 
 = What if I have another Font Awesome plugin active? =
 
@@ -43,5 +45,5 @@ NextGEN Gallery is designed to utilize Font Awesome being called from another pl
 
 == Changelog ==
 
-= 1.0 - 12.18.2014 =
+= 1.0 - 06.01.2015 =
 - First Release
