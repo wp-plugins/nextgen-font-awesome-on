@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-NextGEN Gallery includes a Font Awesome script in the plugin. But the script is used in NextGEN Plus and Pro only. Additionally, the script is only called when a Pro style gallery (from Plus/Pro) is visible on a page or post. This plugin makes the Font Awesome script available to use all the time on your WordPress website.
+Activate NextGEN Gallery’s eneque of Font Awesome always on your site. Take advantage of an amazing font library.
 
 == Description ==
 
@@ -44,6 +44,9 @@ NextGEN Gallery is designed to utilize Font Awesome being called from another pl
 1. When both NextGEN Font Awesome On and NextGEN Gallery are both active, you will see Font Awesome included in the source code of every page. If you are using another Font Awesome plugin, then NextGEN Gallery will not serve the Font Awesome script.
 
 == Changelog ==
+
+= 1.0.1 - 06.01.2015 =
+- Minor readme adjustments
 
 = 1.0 - 06.01.2015 =
 - First Release

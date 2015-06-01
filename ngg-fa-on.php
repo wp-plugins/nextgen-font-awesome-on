@@ -7,9 +7,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:       NextGEN Font Awesome On
- * Plugin URI:        http://scottwyden.com/ngg-fa-on
- * Description:       NextGEN Gallery includes a Font Awesome script in the plugin. But the script is used in NextGEN Plus and Pro only. Additionally, the script is only called when a Pro style gallery (from Plus/Pro) is visible on a page or post. This plugin makes the Font Awesome script available to use all the time on your WordPress website.
- * Version:           1.0.0
+ * Plugin URI:        http://scottwyden.com/nextgen-fa-on
+ * Description:       Activate NextGEN Gallery’s eneque of Font Awesome always on your site. Take advantage of an amazing font library.
+ * Version:           1.0.1
  * Author:            Scott Wyden Kivowitz
  * Author URI:        http://scottwyden.com
  * License:           GPL-2.0+
