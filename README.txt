@@ -25,7 +25,7 @@ Simply install and sit back.  No configuration required.
 
 == Frequently Asked Questions ==
 
-== What does this do? ==
+= What does this do? =
 
 NextGEN Gallery includes a Font Awesome script in the plugin. But the script is used in NextGEN Plus and Pro only. Additionally, the script is only called when a Pro style gallery (from Plus/Pro) is visible on a page or post. This plugin makes the Font Awesome script available to use all the time on your WordPress website.
 
