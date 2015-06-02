@@ -8,11 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Activate NextGEN Gallery’s eneque of Font Awesome always on your site. Take advantage of an amazing font library.
+Activate NextGEN Gallery’s enqueue of Font Awesome always on your site. Take advantage of an amazing font library.
 
 == Description ==
 
-NextGEN Gallery includes a Font Awesome script in the plugin. But the script is used in NextGEN Plus and Pro only. Additionally, the script is only called when a Pro style gallery (from Plus/Pro) is visible on a page or post. This plugin makes the Font Awesome script available to use all the time on your WordPress website.
+Activate NextGEN Gallery’s enqueue of Font Awesome always on your site. Take advantage of an amazing font library.
 
 Learn more about me on my <a href="http://scottwyden.com" target="_blank"> photo website</a>.
 
@@ -24,6 +24,10 @@ Simply install and sit back.  No configuration required.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
+
+== What does this do? ==
+
+NextGEN Gallery includes a Font Awesome script in the plugin. But the script is used in NextGEN Plus and Pro only. Additionally, the script is only called when a Pro style gallery (from Plus/Pro) is visible on a page or post. This plugin makes the Font Awesome script available to use all the time on your WordPress website.
 
 = What can I do with Font Awesome? =
 
