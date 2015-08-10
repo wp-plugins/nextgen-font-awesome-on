@@ -3,7 +3,7 @@ Contributors: scottwyden
 Donate link: http://scottwyden.com
 Tags: nextgen gallery,font awesome,fonts, icons, bootstrap, font icon, font-awesome, icon font
 Requires at least: 4.1
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
